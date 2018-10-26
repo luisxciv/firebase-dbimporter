@@ -1,0 +1,11 @@
+id,name,promotion,establishment_id,quantity,validity_date,terms,created_date,code,points,active,image,image_file_name,game_level_id
+166,"2 Churros Gratis","En la compra de chilaquiles te regalo 2 churros",33,50,2019-10-01,,"2018-10-24 11:35:47",tdhh52,500,0,NULL,NULL,1
+165,"2 Churros Gratis","En la compra de chilaquiles te regalo 2 churros.",33,50,2019-10-01,,"2018-10-24 11:33:48",oyp4ai,500,0,NULL,NULL,1
+164,"5% de Descuento","5% en los productos que selecciones de nuestras páginas",66,50,2019-10-20,,"2018-10-22 13:18:39",cfdbtk,500,1,../uploads/20181022/img-5bce1490ed3a0,"CUPON 1.jpg",1
+163,"2X1 en Artículos","2X1 en artículos que selecciones de nuestras páginas",66,50,2019-10-21,,"2018-10-22 13:16:19",zsj72r,1000,1,../uploads/20181022/img-5bce1445636d4,"CUPON 2.jpg",1
+162,"20% de Descuento en Envio","Compra 3 artículos y el 20% del envió va por nuestra cuenta (Ciudad de México y área metropolitana)",66,50,2018-10-22,,"2018-10-22 13:07:48",p5nw4f,300,1,../uploads/20181022/img-5bce121b7772e,"CUPON 3.jpg",1
+161,"15 de Descuento","Por 250 puntos 15% en tu compra total ya con envió (Ciudad de México y área metropolitana)",66,50,2019-10-21,,"2018-10-22 12:49:36",op70tb,250,1,../uploads/20181022/img-5bce0ef21d7a6,"CUPON 4.jpg",1
+160,"¡Pizza de Churro Gratis!","En la compra de una pizza recibe una pizza de churro bambino gratis",65,50,2019-10-21,,"2018-10-22 11:53:27",25ttue,50,1,../uploads/20181022/img-5bce00acdbf58,cupon.png,1
+159,"Lunes - Miércoles 15% de Descuento","15% de descuento en tu producto de Lunes - Miércoles",64,50,2019-10-01,,"2018-10-11 13:38:41",k82div,200,1,../uploads/20181011/img-5bbf98d0a423e,41842386_341869046556263_7612710665673197130_n.jpg,1
+158,"10% de Descuento","10% de descuento en tu producto",64,50,2019-10-01,,"2018-10-11 13:12:58",jgee5n,150,1,../uploads/20181011/img-5bbf98e378873,banner.jpg,1
+157,"Day Pass","Un día gratis en WeWork Mexico. Para redimirlo debes registrarse en www.we.co/eventos",63,50,2019-10-01,,"2018-10-09 14:28:57",5jeoc1,500,1,../uploads/2018109/img-5bbd0c75e779c,WEWORK_126.jpg,1
